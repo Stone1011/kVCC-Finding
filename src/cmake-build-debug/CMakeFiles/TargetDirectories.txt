@@ -1,0 +1,3 @@
+/Users/stone/Documents/CLionProjects/KVCC/cmake-build-debug/CMakeFiles/KVCC.dir
+/Users/stone/Documents/CLionProjects/KVCC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stone/Documents/CLionProjects/KVCC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

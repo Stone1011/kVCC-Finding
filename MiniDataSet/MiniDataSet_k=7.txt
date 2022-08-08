@@ -1,0 +1,18 @@
+VCC Num: 1
+
+K-VCC(No. 1): node_nums = 15
+Node_ID: 9
+Node_ID: 32
+Node_ID: 36
+Node_ID: 37
+Node_ID: 40
+Node_ID: 41
+Node_ID: 43
+Node_ID: 47
+Node_ID: 52
+Node_ID: 58
+Node_ID: 64
+Node_ID: 69
+Node_ID: 72
+Node_ID: 76
+Node_ID: 78
