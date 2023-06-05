@@ -1,6 +1,6 @@
 # Algorithm Design: $k$-VCC Search
 
-## Shiyifan  2020202264
+## Yifan SHI
 
 ## 1 Problem Overview
 
